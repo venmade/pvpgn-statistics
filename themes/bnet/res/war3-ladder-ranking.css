@@ -1,0 +1,135 @@
+TD.rankingOutline {
+    border-RIGHT: #464646 1px solid; border-TOP: #464646 1px solid; border-LEFT: #464646 1px solid; border-BOTTOM: #464646 1px solid;
+}
+TD.rankingHeader {
+    border-RIGHT: #5d5d5d 1px solid; border-TOP: #5d5d5d 1px solid; font-SIZE: 8pt; border-LEFT: #1e1d1c 1px solid; color: #cba300;
+    border-BOTTOM: #1e1d1c 1px solid; font-FAMILY: arial,helvetica,sans-serif; BACKGROUND-color: #2e2d2b; TEXT-ALIGN: center;
+}
+TD.rankingyellow {
+    font-WEIGHT: bold; border-RIGHT: #5d5d5d 1px solid; border-TOP: #5d5d5d 1px solid; font-SIZE: 8pt; border-LEFT: #1e1d1c 1px solid;
+    color: #cba300; border-BOTTOM: #1e1d1c 1px solid; font-FAMILY: arial,helvetica,sans-serif; BACKGROUND-color: #2e2d2b; TEXT-ALIGN: center;
+}
+TD.rankingstar {
+    border-RIGHT: #5d5d5d 1px solid; border-TOP: #5d5d5d 1px solid; font-SIZE: 8pt; border-LEFT: #1e1d1c 1px solid; color: #cba300;
+    border-BOTTOM: #1e1d1c 1px solid; font-FAMILY: arial,helvetica,sans-serif;  TEXT-ALIGN: center;
+}
+TD.rankingnone {
+    border-RIGHT: #000000 1px solid; border-TOP: #000000 1px solid; font-SIZE: 8pt; border-LEFT: #000000 1px solid; color: #cba300;
+    border-BOTTOM: #000000 1px solid; font-FAMILY: arial,helvetica,sans-serif;  TEXT-ALIGN: center;
+}
+TD.rankingwhite {
+    font-WEIGHT: bold;border-RIGHT: #5d5d5d 1px solid; border-TOP: #5d5d5d 1px solid; font-SIZE: 8pt; border-LEFT: #1e1d1c 1px solid;
+    color: #CCCCCC; border-BOTTOM: #1e1d1c 1px solid; font-FAMILY: arial,helvetica,sans-serif; BACKGROUND-color: #2e2d2b; TEXT-ALIGN: center;
+}
+TD.rankingblack {
+    font-WEIGHT: bold;border-RIGHT: #5d5d5d 1px solid; border-TOP: #5d5d5d 1px solid; font-SIZE: 8pt; border-LEFT: #1e1d1c 1px solid;
+    color: #CCCCCC; border-BOTTOM: #1e1d1c 1px solid; font-FAMILY: arial,helvetica,sans-serif; BACKGROUND-color: #000000; TEXT-ALIGN: center;
+}
+TD.rankinglogo {
+    font-WEIGHT: bold;border-RIGHT: #5d5d5d 1px solid; border-TOP: #5d5d5d 1px solid; font-SIZE: 9pt; border-LEFT: #1e1d1c 1px solid;
+    color: #FFFFF; border-BOTTOM: #1e1d1c 1px solid; font-FAMILY: arial; BACKGROUND-color: #2e2d2b; TEXT-ALIGN: center;
+}
+TD.rankingFiller {
+    border-RIGHT: 0px; border-TOP: 0px; font-SIZE: 8pt; border-LEFT: 0px; border-BOTTOM: 0px; font-FAMILY: arial,helvetica,sans-serif;
+    BACKGROUND-color: #1f1e1d; TEXT-ALIGN: center;
+}
+TD.rankingRow {
+    border-RIGHT: #000000 0px solid; padding-RIGHT: 3px; border-TOP: #000000 1px solid; padding-LEFT: 3px; font-WEIGHT: bold; font-SIZE: 9pt;
+    padding-BOTTOM: 3px; border-LEFT: #000000 0px solid; color: #ffffff; padding-TOP: 3px; border-BOTTOM: #000000 0px solid; font-FAMILY: arial,helvetica,sans-serif; TEXT-ALIGN: center;
+}
+TD.rankingRowLeft {
+    border-RIGHT: #000000 0px solid; padding-RIGHT: 3px; border-TOP: #000000 1px solid; padding-LEFT: 3px; font-WEIGHT: bold; font-SIZE: 9pt;
+    padding-BOTTOM: 3px; border-LEFT: #000000 0px solid; color: #ffffff; padding-TOP: 3px; border-BOTTOM: #000000 0px solid; font-FAMILY: arial,helvetica,sans-serif;
+}
+TD.rankingRowRight {
+    border-RIGHT: #000000 0px solid; padding-RIGHT: 3px; border-TOP: #000000 1px solid; padding-LEFT: 3px; font-WEIGHT: bold; font-SIZE: 9pt;
+    padding-BOTTOM: 3px; border-LEFT: #000000 0px solid; color: #ffffff; padding-TOP: 3px; border-BOTTOM: #000000 0px solid; font-FAMILY: arial,helvetica,sans-serif; TEXT-ALIGN: right;
+}
+TD.rankingRowAlt {
+    border-RIGHT: #000000 0px solid; padding-RIGHT: 3px; border-TOP: #000000 1px solid; padding-LEFT: 3px; font-WEIGHT: bold; font-SIZE: 9pt;
+    padding-BOTTOM: 3px; border-LEFT: #000000 0px solid; color: #ffffff; padding-TOP: 3px; border-BOTTOM: #000000 0px solid; font-FAMILY: arial,helvetica,sans-serif;
+}
+TD.ranking {
+    font-WEIGHT: bold; font-SIZE: 9pt; color: #ffffff; font-FAMILY: arial,helvetica,sans-serif; TEXT-ALIGN: center;
+}
+SPAN.rankingName {
+    font-WEIGHT: bold; font-SIZE: 9pt; color: #cba300; font-FAMILY: arial,helvetica,sans-serif;
+}
+SPAN.rankingTitle {
+    font-WEIGHT: bold; font-SIZE: 9pt; color: #cba300; font-FAMILY: arial,helvetica,sans-serif;
+}
+#colorRed {
+    color: red;
+}
+A.button:link {
+    padding-RIGHT: 3px; DISPLAY: block; padding-LEFT: 3px; padding-BOTTOM: 3px; color: #cba300; padding-TOP: 3px;
+}
+A.button:visited {
+    padding-RIGHT: 3px; DISPLAY: block; padding-LEFT: 3px; padding-BOTTOM: 3px; color: #cba300; padding-TOP: 3px;
+}
+A.button:hover {
+    padding-RIGHT: 3px; DISPLAY: block; padding-LEFT: 3px; padding-BOTTOM: 3px; color: #ffffff; padding-TOP: 3px; BACKGROUND-color: #A9A9A9;
+}
+A.button:active {
+    padding-RIGHT: 3px; DISPLAY: block; padding-LEFT: 3px; padding-BOTTOM: 3px; color: #ffffff; padding-TOP: 3px;
+}
+A:link {
+    font-WEIGHT: bold; color: #cba300; font-FAMILY: arial,helvetica,sans-serif;
+}
+A:visited {
+    font-WEIGHT: bold; color: #aaaaaa; font-FAMILY: arial,helvetica,sans-serif;
+}
+A:hover {
+    font-WEIGHT: bold; color: #ffffff; font-FAMILY: arial,helvetica,sans-serif;
+}
+A:active {
+    font-WEIGHT: bold; color: #ffffff; font-FAMILY: arial,helvetica,sans-serif;
+}
+A.rankingName:link {
+    color: #cba300;
+}
+A.rankingName:visited {
+    color: #cba300;
+}
+A.rankingName:hover {
+    color: #cba300; BACKGROUND-color: #565553;
+}
+A.rankingName:active {
+    color: #cba300;
+}
+A.ranking:link {
+    font-WEIGHT: bold; font-SIZE: 9pt; color: #ffffff; font-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none;
+}
+A.ranking:visited {
+    font-WEIGHT: bold; font-SIZE: 9pt; color: #ffffff; font-FAMILY: arial,helvetica,sans-serif;
+}
+A.ranking:hover {
+    font-WEIGHT: bold; font-SIZE: 9pt; color: #ffffff; font-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: underline;
+}
+A.ranking:active {
+    font-WEIGHT: bold; font-SIZE: 9pt; color: #ffffff; font-FAMILY: arial,helvetica,sans-serif;
+}
+TABLE.mainTable {
+    BACKGROUND-POSITION: right 50%; BACKGROUND-IMAGE: url(/war3/images/ladder-revise/right-bg.gif); BACKGROUND-REPEAT: repeat-y;
+}
+TABLE.expOutline {
+    border-RIGHT: #5a5d5a 1px solid; border-TOP: #5a5d5a 1px solid; border-LEFT: #5a5d5a 1px solid; border-BOTTOM: #5a5d5a 1px solid; BACKGROUND-color: #000000;
+}
+#levelbarParent {
+    WIDTH: 70px;
+    POSITION: relative;
+    HEIGHT: 1px;
+}
+#levelbarChild {
+    font-WEIGHT: bold;
+    font-SIZE: 8pt; LEFT: 30px; color: #ffffff; font-FAMILY: arial,helvetica,sans-serif; POSITION: absolute; TOP: 1px;
+}
+#levelbarChild2 {
+    font-WEIGHT: bold;
+    font-SIZE: 8pt; LEFT: 55px; color: #ffffff; font-FAMILY: arial,helvetica,sans-serif; POSITION: absolute; TOP: 4px;
+}
+P.info {
+    font-SIZE: 10pt;
+    color: #ab9364;
+    font-FAMILY: arial,helvetica,sans-serif;
+}

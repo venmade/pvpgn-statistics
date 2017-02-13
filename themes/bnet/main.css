@@ -1,0 +1,25 @@
+td {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: white;
+}
+
+td.menu {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: white;
+}
+
+table.menu {
+    font-size: 12px;
+    line-height: 24px;
+    background-color: #000;
+    color: #FFF;
+}
+
+table.submenu {
+    font-size: 12px;
+    line-height: 24px;
+    background-color: #000;
+    color: #FFF;
+}

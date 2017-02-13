@@ -1,0 +1,94 @@
+td.rankingOutline {
+    border-RIGHT: #464646 1px solid; border-TOP: #000000 1px solid; border-LEFT: #464646 1px solid; border-BOTTOM: #464646 1px solid
+}
+td.rankingHeader {
+    border-RIGHT: #5d5d5d 1px solid; padding-RIGHT: 3px; border-TOP: #5d5d5d 1px solid; padding-LEFT: 3px; font-WEIGHT: bold; font-SIZE: 8pt; padding-BOTTOM: 3px; border-LEFT: #1e1d1c 1px solid; COLOR: #ffffff; padding-TOP: 3px; border-BOTTOM: #1e1d1c 1px solid; font-FAMILY: arial,helvetica,sans-serif; BACKGROUND-COLOR: #2e2d2b
+}
+td.rankingFiller {
+    border-RIGHT: 0px; border-TOP: 0px; border-LEFT: 0px; border-BOTTOM: 0px; BACKGROUND-COLOR: #1f1e1d
+}
+td.rankingRow {
+    border-RIGHT: #000000 0px solid; padding-RIGHT: 3px; border-TOP: #000000 1px solid; padding-LEFT: 3px; font-SIZE: 8pt; padding-BOTTOM: 3px; border-LEFT: #000000 0px solid; COLOR: #929292; padding-TOP: 3px; border-BOTTOM: #000000 0px solid; font-FAMILY: arial,helvetica,sans-serif; TEXT-ALIGN: center
+}
+td.rankingRowAlt {
+    border-RIGHT: #000000 0px solid; padding-RIGHT: 3px; border-TOP: #000000 1px solid; padding-LEFT: 3px; padding-BOTTOM: 3px; border-LEFT: #000000 0px solid; padding-TOP: 3px; border-BOTTOM: #000000 0px solid
+}
+SPAN.rankingHeader {
+    font-WEIGHT: bold; font-SIZE: 8pt; COLOR: #ffffff; font-FAMILY: arial,helvetica,sans-serif
+}
+SPAN.rankingData {
+    font-SIZE: 8pt; COLOR: #929292; font-FAMILY: arial,helvetica,sans-serif
+}
+SPAN.rankingName {
+    font-SIZE: 8pt; COLOR: #929292; font-FAMILY: arial,helvetica,sans-serif
+}
+#colorRed {
+    COLOR: red
+}
+A.button:link {
+    padding-RIGHT: 3px; display: block; padding-LEFT: 3px; padding-BOTTOM: 3px; COLOR: #cba300; padding-TOP: 3px
+}
+A.button:visited {
+    padding-RIGHT: 3px; display: block; padding-LEFT: 3px; padding-BOTTOM: 3px; COLOR: #cba300; padding-TOP: 3px
+}
+A.button:hover {
+    padding-RIGHT: 3px; display: block; padding-LEFT: 3px; padding-BOTTOM: 3px; COLOR: #ffffff; padding-TOP: 3px; BACKGROUND-COLOR: #565553
+}
+A.button:active {
+    padding-RIGHT: 3px; display: block; padding-LEFT: 3px; padding-BOTTOM: 3px; COLOR: #ffffff; padding-TOP: 3px
+}
+A:link {
+    font-WEIGHT: bold; COLOR: #cba300; font-FAMILY: arial,helvetica,sans-serif
+}
+A:visited {
+    font-WEIGHT: bold; COLOR: #aaaaaa; font-FAMILY: arial,helvetica,sans-serif
+}
+A:hover {
+    font-WEIGHT: bold; COLOR: #ffffff; font-FAMILY: arial,helvetica,sans-serif
+}
+A:active {
+    font-WEIGHT: bold; COLOR: #ffffff; font-FAMILY: arial,helvetica,sans-serif
+}
+A.rankingName:link {
+    COLOR: #cba300
+}
+A.rankingName:visited {
+    COLOR: #cba300
+}
+A.rankingName:hover {
+    COLOR: #cba300; BACKGROUND-COLOR: #565553
+}
+A.rankingName:active {
+    COLOR: #cba300
+}
+TABLE.mainTable {
+    BACKGROUND-POSITION: right 50%; BACKGROUND-IMAGE: url(/war3/images/ladder-revise/right-bg.gif); BACKGROUND-REPEAT: repeat-y
+}
+#levelbarParent {
+    WIDTH: 70px; POSITION: relative; HEIGHT: 1px
+}
+#levelbarChild {
+    font-WEIGHT: bold; font-SIZE: 8pt; LEFT: 30px; COLOR: #ffffff; font-FAMILY: arial,helvetica,sans-serif; POSITION: absolute; TOP: 1px
+}
+#levelbarChild2 {
+    font-WEIGHT: bold; font-SIZE: 8pt; LEFT: 55px; COLOR: #ffffff; font-FAMILY: arial,helvetica,sans-serif; POSITION: absolute; TOP: 4px
+}
+td.playerStatsHeader {
+    font-SIZE: 8pt; COLOR: #929292; font-FAMILY: arial,helvetica,sans-serif
+}
+td.playerStatsData {
+    font-WEIGHT: bold; font-SIZE: 8pt; COLOR: #ffffff; font-FAMILY: arial,helvetica,sans-serif; TEXT-ALIGN: right
+}
+td.playerStatsDataLeft {
+    font-WEIGHT: bold; font-SIZE: 8pt; COLOR: #ffffff; font-FAMILY: arial,helvetica,sans-serif
+}
+LI.profileReport {
+    font-SIZE: 8pt; COLOR: #929292; font-FAMILY: arial,helvetica,sans-serif
+}
+OL.profileReport {
+    font-SIZE: 8pt; COLOR: #929292; font-FAMILY: arial,helvetica,sans-serif
+}
+#additionalInfo {
+    border-RIGHT: #4e4e4e 0px solid; padding-RIGHT: 2px; border-TOP: #5c5c5c 0px solid; padding-LEFT: 2px; padding-BOTTOM: 2px; SCROLLBAR-HIGHLIGHT-COLOR: #666666; OVERFLOW: auto; border-LEFT: #5c5c5c 0px solid; WIDTH: 245px; SCROLLBAR-SHADOW-COLOR: #383838; SCROLLBAR-3DLIGHT-COLOR: #161616; SCROLLBAR-ARROW-COLOR: #666666; padding-TOP: 2px; border-BOTTOM: #4e4e4e 0px solid; SCROLLBAR-DARKSHADOW-COLOR: black; SCROLLBAR-BASE-COLOR: #282724; POSITION: relative; HEIGHT: 32px; BACKGROUND-COLOR: #000000
+}
+

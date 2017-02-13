@@ -1,0 +1,95 @@
+a {
+    color: #FFCC33;
+    text-decoration: none;
+}
+a:hover {	
+    text-decoration: underline
+}
+
+.footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    color: #FFF;
+    background-color: #000;
+}
+
+body {
+    background-color: #000;
+    scrollbar-face-color: #000;
+    scrollbar-highlight-color: #999;
+    scrollbar-shadow-color: #000;
+    scrollbar-3dlight-color: #000;
+    scrollbar-arrow-color:  #999;
+    scrollbar-track-color: #000;
+    scrollbar-darkshadow-color: #999;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #fff;
+}
+
+td {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 24px;
+    color: #fff;
+    background-color: #000;
+}
+
+td.menu {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 24px;
+    color: #fff;
+    background-color: #222;
+}
+
+td.submenu {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 24px;
+    color: #fff;
+    background-color: #222;
+}
+
+th {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 24px;
+    color: #fff;
+    background-color: #444;
+}
+
+th.top {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 24px;
+    color: #fff;
+    background-color: #222;
+}
+
+table.content {
+    background-color: #999;
+}
+
+table.menu {
+    background-color: #999;
+}
+
+table.submenu {
+    background-color: #999999;
+}
+
+.alive {
+    color: #fff;
+}
+
+.dead {
+    color: red;
+}
+
+.boxes {
+    font-size: 10pt;
+    background-color: #000;
+    color: #fff;
+}
